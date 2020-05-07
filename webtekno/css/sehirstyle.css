@@ -70,3 +70,17 @@ h5
     font-weight: bold;
     font-size: 15;
 }
+.d-block
+{
+    min-width: 220px;
+    min-height: 220px;
+    max-width: 220px;
+    max-height: 220px;
+}
+
+.col-6
+{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
